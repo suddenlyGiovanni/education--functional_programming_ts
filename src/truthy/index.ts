@@ -1,4 +1,4 @@
-import { existy } from '../existy';
+import { existy } from '../index';
 
 /**
  * A helper function to determine if something should be consider a synonym for true

@@ -1,5 +1,4 @@
-import { isNull } from '../is-null';
-import { isUndefined } from '../is-undefined';
+import { isNull, isUndefined } from '../index';
 
 export function type(value: any): string {
   const UNDEFINED = 'undefined';
@@ -10,6 +9,6 @@ export function type(value: any): string {
   return isNull(value)
     ? NULL
     : isUndefined(value)
-      ? UNDEFINED
-      : (matches[1] || UNDEFINED).toLowerCase();
+    ? UNDEFINED
+    : (matches[1] || UNDEFINED).toLowerCase();
 }
