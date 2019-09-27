@@ -15,7 +15,7 @@
   "devDependencies": {
     "@types/jest": "^23.3.10",
     "@types/lodash": "^4.14.118",
-    "@types/ramda": "^0.25.42",
+    "@types/ramda": "^0.26.25",
     "jest": "^23.6.0",
     "prettier": "^1.15.3",
     "ts-jest": "^23.10.5",
