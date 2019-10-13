@@ -4,5 +4,5 @@
  * @return {boolean}
  */
 export function existy(x: any): boolean {
-  return x != null;
+  return x != null
 }
