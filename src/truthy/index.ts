@@ -1,4 +1,4 @@
-import { existy } from '../index';
+import { existy } from '../index'
 
 /**
  * A helper function to determine if something should be consider a synonym for true
@@ -7,5 +7,5 @@ import { existy } from '../index';
  * @returns {boolean}
  */
 export function truthy(x: any): boolean {
-  return x !== false && existy(x);
+  return x !== false && existy(x)
 }

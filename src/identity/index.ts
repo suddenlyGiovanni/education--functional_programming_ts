@@ -3,6 +3,6 @@
  * Good as a default or placeholder function.
  * @param value {any}
  */
-export function identity<T = any>(value: T): T {
-  return value;
+export function identity<T>(value: T): T {
+  return value
 }
