@@ -13,3 +13,5 @@ export { unary } from './variadic/unary'
 
 export { doWhen } from './do-when'
 export { executeIfHasField } from './execute-if-has-field'
+
+export { reduce } from './reduce/reduce'
