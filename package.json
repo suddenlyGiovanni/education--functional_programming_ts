@@ -14,20 +14,20 @@
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^24.0.18",
-    "@types/lodash": "^4.14.118",
+    "@types/lodash": "^4.14.144",
     "@types/ramda": "^0.26.29",
     "jest": "^24.9.0",
-    "prettier": "^1.15.3",
-    "ts-jest": "^24.0.2",
-    "tslint": "^5.11.0",
-    "tslint-config-airbnb": "^5.11.1",
-    "tslint-config-prettier": "^1.17.0",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.20.0",
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint-config-prettier": "^1.18.0",
     "tslint-config-standard": "^8.0.1",
     "tslint-immutable": "^6.0.1",
-    "typescript": "^3.2.2"
+    "typescript": "^3.6.4"
   },
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.15",
     "ramda": "^0.26.1"
   }
 }
