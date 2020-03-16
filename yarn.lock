@@ -520,12 +520,12 @@
   resolved "https://registry.yarnpkg.com/@types/parsimmon/-/parsimmon-1.10.0.tgz#ffb81cb023ff435a41d4710a29ab23c561dc9fdf"
   integrity sha512-bsTIJFVQv7jnvNiC42ld2pQW2KRI+pAG243L+iATvqzy3X6+NH1obz2itRKDZZ8VVhN3wjwYax/VBGCcXzgTqQ==
 
-"@types/ramda@^0.26.29":
-  version "0.26.29"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.29.tgz#34dfaabbc0323faccc8ceaaa070b8507eabadd25"
-  integrity sha512-j0rrDm19024J0X5wHl8ZK0mQas9TVvL7KQPocDEZU0nq/OUtmh0mBBBrfSIKGJZF1VLhtW6MGw+YRojUSY+5kg==
+"@types/ramda@^0.26.44":
+  version "0.26.44"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.44.tgz#70bb06f5ae60809dc83a3d804505ee3123443738"
+  integrity sha512-s0cj9rylWw+Ax/AnttCQzMrLZGq/OxAIZgrkRLK1QHJIF6Qabd0//acMCFM6+Xb8Bi8p8PkT2fqpaQveRju/kA==
   dependencies:
-    ts-toolbelt "^4.7.7"
+    ts-toolbelt "^6.3.3"
 
 "@types/semver@^6.0.1":
   version "6.0.2"
@@ -5059,10 +5059,10 @@ ts-node@^8.4.1:
     source-map-support "^0.5.6"
     yn "^3.0.0"
 
-ts-toolbelt@^4.7.7:
-  version "4.8.13"
-  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-4.8.13.tgz#515c5aed3688453445f4bd59c9170483870069b7"
-  integrity sha512-FbZ5Jie0f5pSnGJ3AYE5OcH9IZ/qooOQV/ZW2nOFDHTtllV1vKzWDkbCK/S8+H3AmHL7jwNPo+LhtKIvfQce6w==
+ts-toolbelt@^6.3.3:
+  version "6.3.6"
+  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-6.3.6.tgz#2bde29106c013ed520c32f30e1248daf8fd4f5f9"
+  integrity sha512-eVzym+LyQodOCfyVyQDQ6FGYbO2Xf9Nc4dGLRKlKSUpAs+8qQWHG+grDiA3ciEuNPNZ0qJnNIYkdqBW1rCWuUA==
 
 tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.10.0"
